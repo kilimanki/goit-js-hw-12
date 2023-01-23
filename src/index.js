@@ -117,3 +117,4 @@ const gallerySettings = {
 
 let gallery = new SimpleLightbox('.gallery a');
 gallery.on('show.simplelightbox', gallerySettings);
+ //123
